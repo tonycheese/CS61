@@ -24,7 +24,7 @@
  ********************************************************/
 team_t team = {
     /* Team name (id1+id2)*/
-    "",
+    "Test",
     /* First member's full name */
     "",
     /* First member's email address */
